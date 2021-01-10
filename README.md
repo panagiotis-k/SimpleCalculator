@@ -1,2 +1,2 @@
 # SimpleCalculator
-A simple calculator app using html,css , js , &amp; bootstrap
+A simple calculator app using html,css , js &amp; bootstrap
