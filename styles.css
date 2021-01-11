@@ -22,6 +22,7 @@ body{
 }
 
 #display{
+    text-align: right;
     width:310px;
     margin : 4px;
     outline: none;
